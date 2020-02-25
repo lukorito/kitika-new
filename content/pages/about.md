@@ -4,7 +4,8 @@ template: "page"
 socialImage: "/media/image-2.jpg"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+Hello my name is Kelvin Kitika! I am a full-stack software developer at Andela Kenya. I am passionate about problem-solving and web development. I love learning new technologies and taking on challenges. I am motivated daily to continue improving my skills by the prospect of adding value to people's lives through what I build. In my free time, I try to read, write, play games (Xbox and Mobile), and play soccer.
+
 
 ![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
 

@@ -1,42 +1,44 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://kitika.dev',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Blog by Kelvin Kitika',
+  subtitle: 'Software Developer',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: 'UA-140022270-1',
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
-      path: '/'
+      label: 'Blog',
+      path: '/',
     },
     {
       label: 'About me',
-      path: '/pages/about'
+      path: '/pages/about',
     },
     {
       label: 'Contact me',
-      path: '/pages/contacts'
-    }
+      path: '/pages/contacts',
+    },
+    {
+      label: 'Projects',
+      path: '/pages/projects',
+    },
   ],
   author: {
-    name: 'John Doe',
+    name: 'Kelvin Kitika',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Software Developer',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      email: 'kelvin.kitika@gmail.com',
+      twitter: '_kitika',
+      github: 'lukorito',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
+      linkedin: 'kelvin-kitika-lukorito-85065183',
       instagram: '#',
       line: '',
       gitlab: '',
@@ -44,6 +46,6 @@ module.exports = {
       codepen: '',
       youtube: '',
       soundcloud: '',
-    }
-  }
+    },
+  },
 };
